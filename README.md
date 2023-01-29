@@ -11,9 +11,6 @@
  <img src="https://img.shields.io/badge/SpringSecurity-000000?style=flat-square&logo=Springsecurity&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-20688f?style=flat-square&logo=Mysql&logoColor=white"/>
 </div>
-
-<br>
-
 <div align="center">
   <h4>💬💬</h4>
   <a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=white"></a>
