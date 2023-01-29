@@ -4,7 +4,8 @@
   <h4>💻 MY STACK 💻</h4>
 </div>
 
-  BBB![Dahye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dahye&show_icons=true&theme=tokyonight)
+  ![Dahye's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidahye99&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidahye99&langs_count=10&layout=compact)
 
 <div align="center">
   <h4>💬💬</h4>
