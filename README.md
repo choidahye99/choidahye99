@@ -11,6 +11,7 @@
  <img src="https://img.shields.io/badge/SpringSecurity-000000?style=flat-square&logo=Springsecurity&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-20688f?style=flat-square&logo=Mysql&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/Jira-3d81f7?style=flat-square&logo=Jirasoftware&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitLab-d23f1f?style=flat-square&logo=Gitlab&logoColor=white"/>
 </div>
 
 <div>
