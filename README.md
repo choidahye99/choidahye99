@@ -1,5 +1,5 @@
 
-  ***I have not failed. I've just found 10,000 ways that won't work.***
+  ***I HAVE NOT FAILED. I'VE JUST FOUND 10,000 WAYS THAT WON'T WORK***
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DAHYE-CHOI&fontSize=90)
   
@@ -22,7 +22,7 @@
 </div>
 
 ***
-<h4>🎆Algorithm🎆</h4>
+<h4>🎆 ALGORITHM 🎆</h4>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhc0404)](https://solved.ac/dhc0404/)
 
