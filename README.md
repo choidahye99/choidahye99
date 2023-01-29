@@ -1,7 +1,7 @@
 
   *I have not failed. I've just found 10,000 ways that won't work.*
   
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DAHYE-CHOI%20render&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DAHYE%20render&fontSize=90)
   
   ***
   
