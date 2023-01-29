@@ -22,7 +22,7 @@
 </div>
 
 ***
-**🎆Algorithm🎆
+<h4>🎆Algorithm🎆</h4>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhc0404)](https://solved.ac/dhc0404/)
 
