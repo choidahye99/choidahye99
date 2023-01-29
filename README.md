@@ -5,8 +5,8 @@
 
 
 
-#### 📝 ...
-<a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/Notion-white.svg?&style=for-the-badge&logo=Android&logoColor=black"></a>
+#### 💬💬
+<a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/Notion-white.svg?&style=for-the-badge&logo=Notion&logoColor=black"></a>
 <a href = "https://tech-04.tistory.com//"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 <!--
 **choidahye99/choidahye99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
