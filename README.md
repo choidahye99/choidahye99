@@ -1,10 +1,11 @@
+![header](https://capsule-render.vercel.app/api type=soft&color=auto&height=150&section=header&text=DaHyeChoi&fontSize=70&animation=twinkling)
 ### 👋👋
 
 
 
 
 
-## 📝 ...
+#### 📝 ...
 <a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/Notion-white.svg?&style=for-the-badge&logo=Android&logoColor=black"></a>
 <a href = "https://tech-04.tistory.com//"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 <!--
