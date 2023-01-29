@@ -3,20 +3,20 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DAHYE-CHOI&fontSize=90)
   
-<span>
+<div text-align="center">
   <h4>💻 MY STACK 💻</h4>
  <img src="https://img.shields.io/badge/Java-f19800?style=flat-square&logo=OpenJDK&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-75b336?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Springboot-75b336?style=flat-square&logo=Springboot&logoColor=white"/> <br>
  <img src="https://img.shields.io/badge/SpringSecurity-000000?style=flat-square&logo=Springsecurity&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-20688f?style=flat-square&logo=Mysql&logoColor=white"/>
-</span>
-<span> </span>
-<span>
-  💬💬<br>
+</div>
+
+<div text-align="center">
+  <h4>💬💬</h4>
   <a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=white"></a>
   <a href = "https://tech-04.tistory.com//"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
-</span>
+</div>
 
 
 ***
