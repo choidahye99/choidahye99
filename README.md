@@ -1,6 +1,6 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DahyeChoi&fontSize=70&animation=twinkling)
 
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DahyeChoi&fontSize=70&animation=twinkling)
+<div align="center">
   <h4>💻 MY STACK 💻</h4>
   
   
