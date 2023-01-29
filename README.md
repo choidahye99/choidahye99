@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-bedge&logo=appveyor&logoColor=000000"/></a>
+
 
 <!--
 **choidahye99/choidahye99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
