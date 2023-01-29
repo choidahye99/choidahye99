@@ -1,5 +1,5 @@
 ### 👋👋
-<a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-bedge&logo=appveyor&logoColor=000000"></a>
+<a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Android&logoColor=black"></a>
 
 <!--
 **choidahye99/choidahye99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
