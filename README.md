@@ -19,6 +19,9 @@
   <a href = "https://tech-04.tistory.com//"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 </div>
 
+***
+**🎆 Algorithm🎆 **
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhc0404)](https://solved.ac/dhc0404/)
 
 ***
