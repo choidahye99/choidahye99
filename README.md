@@ -8,6 +8,7 @@
  <img src="https://img.shields.io/badge/Java-f19800?style=flat-square&logo=OpenJDK&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-75b336?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Springboot-75b336?style=flat-square&logo=Springboot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SpringSecurity-000000?style=flat-square&logo=Springsecurity&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-20688f?style=flat-square&logo=Mysql&logoColor=white"/>
 </div>
 
