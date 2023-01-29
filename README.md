@@ -3,7 +3,7 @@
   <h4>💻💻 MY STACK</h4>
   
   
-  ####💬💬
+  <h4>💬💬</h4>
   <a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=white"></a>
   <a href = "https://tech-04.tistory.com//"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 </div>
