@@ -9,7 +9,8 @@
  <img src="https://img.shields.io/badge/Spring-75b336?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Springboot-75b336?style=flat-square&logo=Springboot&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringSecurity-000000?style=flat-square&logo=Springsecurity&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-20688f?style=flat-square&logo=Mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-20688f?style=flat-square&logo=Mysql&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/Jira-3d81f7?style=flat-square&logo=Jirasoftware&logoColor=white"/>
 </div>
 
 <div>
