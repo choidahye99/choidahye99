@@ -15,6 +15,7 @@
  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=Github&logoColor=white"/>
 </div>
 
+
 <div>
   <h4>💬💬</h4>
   <a href="https://midi-latency-f31.notion.site/Portfolio-75783496e88e4ef999649f415db00fee" target="_blank"><img src="https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=white"></a>
@@ -25,12 +26,12 @@
 ***
 <h4>🎆 ALGORITHM 🎆</h4>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhc0404)](https://solved.ac/dhc0404/)
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 ***
 
 <h4>🎆 STUDY 🎆</h4>
-
+ <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=Github&logoColor=white"/>
 
 ***
 
