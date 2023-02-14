@@ -27,12 +27,12 @@
 ***
 <h4>🎆 ALGORITHM 🎆</h4>
 
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 ***
 
 <h4>🎆 STUDY 🎆</h4>
- <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 ***
 
