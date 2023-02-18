@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DAHYE-CHOI&fontSize=90)
   
 <div>
-  <h4>💻 MY STACK 💻</h4>
+  <h4> 💻 MY STACK 💻 </h4>
  <img src="https://img.shields.io/badge/Java-f19800?style=flat-square&logo=OpenJDK&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-75b336?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Springboot-75b336?style=flat-square&logo=Springboot&logoColor=white"/>
@@ -27,14 +27,15 @@
 ***
 <h4>🎆 ALGORITHM 🎆</h4>
   
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhc0404)](https://solved.ac/dhc0404/)
 
 ***
 
-<h4>🎆 STUDY 🎆</h4>
+<h4>✒️ STUDY 🖋️</h4>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-
+  
 ***
 
 
