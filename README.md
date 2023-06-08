@@ -9,9 +9,11 @@
  <img src="https://img.shields.io/badge/Spring-75b336?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Springboot-75b336?style=flat-square&logo=Springboot&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringSecurity-429300?style=flat-square&logo=Springsecurity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-20688f?style=flat-square&logo=Mysql&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-20688f?style=flat-square&logo=Mysql&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/Jira-3d81f7?style=flat-square&logo=Jirasoftware&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitLab-d23f1f?style=flat-square&logo=Gitlab&logoColor=white"/>
@@ -38,7 +40,7 @@
 
 <h4>✒️ STUDY 🖋️</h4>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+
   
 ***
 
