@@ -20,6 +20,8 @@
  <img src="https://img.shields.io/badge/Jira-3d81f7?style=flat-square&logo=Jirasoftware&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitLab-d23f1f?style=flat-square&logo=Gitlab&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=Github&logoColor=white"/>
+
+
  
 </div>
 
